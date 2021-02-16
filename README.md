@@ -10,7 +10,7 @@ git clone https://github.com/coffee2222/jmbg_check_py.git
 cd jmbg_check_py/
 python jmbgck.py 3213990015001 (jmbg number)
 ```
-## Multiple numbers
+## Multiple JMBG'S
   To check multiple jmbg numbers we use xargs command to run based on amount of lines in a file...
   ```bash 
   xargs -l python jmbgck.py < jmbgs.txt
