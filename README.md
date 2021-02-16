@@ -1,5 +1,5 @@
 # jmbg_check_py
-A simple Python tool for checking JMBG values.
+A simple Python CLI tool for checking JMBG numbers.
 
 ![](images/jmbgck.png)
 
